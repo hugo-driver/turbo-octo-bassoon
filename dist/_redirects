@@ -1,3 +1,1 @@
-
-/ https://beldie.ro
-/optionally-another-old-route/ /blog/post-with-301-redirects/
+/* https://beldie.ro/:splat 301!
