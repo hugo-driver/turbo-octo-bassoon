@@ -1,5 +1,11 @@
-email: stefan@beldie.ro
+email: hola@somemail.com
 address: |-
-  Chutzpah SRL
-  Splaiul Unirii 165
-  030133, București
+  Organization name
+  Your street
+  12345, city
+  Tel: +34 928231911
+platforms:
+  github: 'https://github.com/madrilene/eleventy-excellent'
+  mastodon: 'https://front-end.social/@lene'
+  bluesky: 'https://bsky.app/profile/lenesaile.com'
+  kofi: 'https://ko-fi.com/lenesaile'

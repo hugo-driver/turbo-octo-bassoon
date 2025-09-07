@@ -5,8 +5,6 @@ discover:
 permalink: /imprint/index.html
 description: Imprint infos
 layout: page
-eleventyExcludeFromCollections: true
-excludeFromSitemap: true
 ---
 
 Edit your details in `_data/personal.yaml`
