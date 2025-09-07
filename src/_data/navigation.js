@@ -1,34 +1,30 @@
 export default {
   top: [
     {
-      text: 'About',
+      text: 'Despre',
       url: '/about/'
-    },
-    {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
     },
     {
       text: 'Blog',
       url: '/blog/'
+    },
+     {
+      text: 'Ghiduri',
+      url: '/ghidurile/'
     }
   ],
   bottom: [
     {
-      text: 'Style guide',
-      url: '/styleguide/'
+      text: 'Returnare produse',
+      url: '/politica-de-returnare-a-produselor/'
     },
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Confidențialitate',
+      url: '/politica-de-confidentialitate/'
     },
     {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Termeni și condiții',
+      url: '/termeni-si-conditii/'
     }
   ]
 };
